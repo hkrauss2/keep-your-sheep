@@ -17,4 +17,11 @@ Keep Your Sheep is intended to be a web site featuring gameplay tips and tools t
 3. **Tools**
   1. **Dragon Stats**: Will display information for each dragon troop at each level. Available to all users, including anonymous.
   2. **Army Profile**: Alows Basic users to create and manage collections of dragon troops. Summary information will display for each collection such as the total cost of the troops and time to create.
-  3. **
+  3. **Spell Profile**: Same as the **Army Profile** but contains the various spells available to use during an attack.
+  4. **Attack Profile**: Allows **Basic** users to combine **Army** and **Spell Profiles** into an overall **Attack Profile**.
+
+### What will we use to build this awesomeness!
+1. **Database**: Unknown at this point. Looking for good fit for the Java middleware.
+2. **Web Server**: Same as above
+3. **Server-Side Components**: Since this project is intended to be Java training, some type of Java server technology will be used. I need advice on the specifics.
+4. **Client**: This will be a browser client implemented as a Single Page Application using Angular, Bootstrap and other JS frameworks as needed (example: toastr, underscore, etc...).
