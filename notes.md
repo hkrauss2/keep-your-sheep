@@ -15,4 +15,6 @@ Keep Your Sheep is intended to be a web site featuring gameplay tips and tools t
   2. Display list of articles by *category* or *date*
   2. Display individual articles
 3. **Tools**
-  1. 
+  1. **Dragon Stats**: Will display information for each dragon troop at each level. Available to all users, including anonymous.
+  2. **Army Profile**: Alows Basic users to create and manage collections of dragon troops. Summary information will display for each collection such as the total cost of the troops and time to create.
+  3. **
